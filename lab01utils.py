@@ -7,12 +7,8 @@ def test_es_4(d):
         ('n1', lambda x: x == 3.5),
         ('n2', lambda x: x == 46),
         ('n3', lambda x: x == 46/3.5),
-        ('n4', lambda x: x == 13 and type(x) == int),
-        ('n5', lambda x: x == 13 and type(x) == int),
-        ('n6', lambda x: x == 13.5),
-        ('n7', lambda x: x == type(13.5)),
-        ('n8', lambda x: x == 1.75),
-        ('n9', lambda x: x == 13)
+        ('n4', lambda x: x == 1.75),
+        ('n5', lambda x: x == 13)
     )
     
 def test_es_5(d):
@@ -21,6 +17,14 @@ def test_es_5(d):
         ('area_of_the_circle', lambda x: x == 5541.76476),
         ('circumference', lambda x: x == 263.89356),
         ('min_value', lambda x: x == 263.89356),
+    )
+    
+def test_es_6(d):
+    test_predicates_on_global_vars(d,
+        ('n6', lambda x: x == 13 and type(x) == int),
+        ('n7', lambda x: x == 13 and type(x) == int),
+        ('n8', lambda x: x == 13.5),
+        ('n9', lambda x: x == type(13.5)),
         ('int_circumference', lambda x: x == 263 and type(x) == int),
         ('type_of_circumference', lambda x: x == float),
         ('type_of_int_circumference', lambda x: x == int),
