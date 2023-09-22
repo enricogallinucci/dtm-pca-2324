@@ -30,6 +30,6 @@ If you are in the University Lab, everything is already installed: go to the [Ru
 
 ## Questionnaires
 
-At the end of each lab, please take 20 seconds to fill a very brief (and anonymous) questionnaire - it will help refining the exercises in the following labs (and possibily revisit next year's edition).
+At the end of each lab, please take 20 seconds to fill a very brief (and anonymous) questionnaire - it will help me in understanding how the classroom is going, refining the exercises in the following labs, and improving next year's edition.
 
 - [Link for Lab01](https://forms.gle/woiX5RQ5kUkHiySEA)
