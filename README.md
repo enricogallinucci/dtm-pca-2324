@@ -27,3 +27,9 @@ If you are in the University Lab, everything is already installed: go to the [Ru
     - ```cd C:/path_to_the_folder_with_exercises```
 4. Run the following command:
     - ```jupyter lab```
+
+## Questionnaires
+
+At the end of each lab, please take 20 seconds to fill a very brief (and anonymous) questionnaire - it will help refining the exercises in the following labs (and possibily revisit next year's edition).
+
+- [Link for Lab01](https://forms.gle/woiX5RQ5kUkHiySEA)
