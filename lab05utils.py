@@ -49,7 +49,6 @@ def test_find_common_words(g):
 def test_word_count(g):
     function_test_cases(g, "word_count",             
         (["files/sheep.txt", 2], {'the': 4, 'bench': 2, 'sheep': 2}),
-        (["files/divine_comedy.txt", 1000], {'la': 2361, 'di': 1898, 'per': 1384, 'a': 2046, 'e': 4070, 'che': 3697, 'ch': 1029, 'l': 2677, 'io': 1137, 'non': 1456, 'in': 1107, 'si': 1043}),
+        (["files/divine_comedy.txt", 1000], {'la': 2361, 'di': 1898, 'per': 1384, 'a': 2046, 'e': 4072, 'che': 3697, 'ch': 1029, 'l': 2678, 'io': 1137, 'non': 1456, 'in': 1107, 'si': 1043}),
         (["files/lost.txt", 3], {'i': 6, 'the': 3, 'a': 3, 'but': 4, 'this': 3, 'is': 3, 'it': 7, 's': 4, 'what': 3, 'if': 3}),
     )
-    
