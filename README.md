@@ -36,3 +36,4 @@ At the end of each lab, please take 20 seconds to fill a very brief (and anonymo
 - [Link for Lab02](https://forms.gle/BjwKuW6NEkKfKQSd8)
 - [Link for Lab03](https://forms.gle/p6ZBTZmb5pReWB3g8)
 - [Link for Lab04](https://forms.gle/M82vuvibJ6FWAJYL6)
+- [Link for self-assessment](https://forms.gle/ZafA85henXENY4Fn8) (answers accepted until Saturday 09/12 included)
