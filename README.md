@@ -37,3 +37,14 @@ At the end of each lab, please take 20 seconds to fill a very brief (and anonymo
 - [Link for Lab03](https://forms.gle/p6ZBTZmb5pReWB3g8)
 - [Link for Lab04](https://forms.gle/M82vuvibJ6FWAJYL6)
 - [Link for self-assessment](https://forms.gle/ZafA85henXENY4Fn8) (answers accepted until Saturday 09/12 included)
+
+## Additional resources
+
+- Basic Python exercises with solutions
+  - https://www.practicepython.org/
+  - https://www.w3resource.com/python-exercises/
+  - https://pynative.com/python-exercises-with-solutions/
+- More advanced Python programming
+  - [Fluent Python, 2nd edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/), by Luciano Ramalho. O'Reilly, 2022.
+  - [Python for Data Analysis](https://wesmckinney.com/book/), by Wes McKinnet. O'Reilly, 2022.
+  - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course at freeCodeCamp.
